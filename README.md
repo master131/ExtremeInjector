@@ -7,3 +7,7 @@ All Visual C++ depedencies are digitally signed by Microsoft and have not been t
 Bug Reporting
 ------
 To report any bugs or issues with the injector, please create an [Issue](https://github.com/master131/ExtremeInjector/issues) on Github or report it on the appropriate forum.
+
+Donate
+------
+BTC: 14AtBjcJ8fidmWwaaqC2QFSQjESXTLX5n4
