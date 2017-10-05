@@ -4,7 +4,7 @@ This repository contains the dependencies for Visual C++ Runtime (Debug) along w
 
 All Visual C++ depedencies are digitally signed by Microsoft and have not been tampered with in any way. You can verify this by checking the digital signatures of each DLL within each ZIP file by checking Properties > Digital Signatures > Details.
 
-Official Mirrors
+Official Download Mirrors
 ------
 [MPGH](https://www.mpgh.net/forum/showthread.php?t=1306170)
 
