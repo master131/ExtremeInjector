@@ -6,9 +6,9 @@ All Visual C++ depedencies are digitally signed by Microsoft and have not been t
 
 Official Download Mirrors
 ------
-[MPGH](https://www.mpgh.net/forum/showthread.php?t=1324169)
+[MPGH](https://www.mpgh.net/forum/attachment.php?attachmentid=377509)
 
-[UnknownCheats](https://www.unknowncheats.me/forum/general-programming-and-reversing/213038-extreme-injector-v3-7-a.html)
+[Github](https://github.com/master131/ExtremeInjector/releases/download/v3.7.3/Extreme.Injector.v3.7.3.-.by.master131.rar)
 
 Bug Reporting
 ------
